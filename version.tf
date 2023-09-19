@@ -9,6 +9,6 @@ terraform {
 }
 
 provider "aws" {
-  region  = var.my_region
+  region  = us_east_1
   profile = var.profile
 }
