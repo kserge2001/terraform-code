@@ -7,6 +7,7 @@ terraform {
 
   }
 }
+#changed the version of the aws provider.
 
 provider "aws" {
   region  = var.my_region
