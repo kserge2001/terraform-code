@@ -22,3 +22,4 @@ sudo systemctl enable docker
 docker --version
 
 echo "Docker has been installed successfully."
+#ok
